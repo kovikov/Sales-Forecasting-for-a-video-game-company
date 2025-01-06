@@ -46,6 +46,7 @@ Deployment:
 Flask/Django: To integrate forecasting models into operational systems.
 Version Control:
 Git: To enable seamless collaboration and iterative development.
+
 🌟 Why This Project Matters
 In an industry marked by rapid innovation and consumer preference shifts, accurate forecasting is a key competitive advantage. Businesses that harness data-driven strategies can:
 
